@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Zacks (rainglow)",
+    "C_Cpp.updateChannel": "Insiders",
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.encoding": "iso88591",
+    "window.zoomLevel": -1,
+    "editor.formatOnSave": true
+}
